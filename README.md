@@ -1,4 +1,4 @@
-# <div align="center"> Hello from Sujith <img src="https://emojicombos.com/wp-content/uploads/2020/04/emoji-combos-smiling-face-with-open-mouth-and-smiling-eyes.png" width="30"></div>
+# <div align="center"> Hello from Sujith</div>
 
 <div align="center">I am an aspiring Software Engineer.</div>
 
