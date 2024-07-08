@@ -1,16 +1,26 @@
-## Hi there 👋
+# <div align="center"> Hello from Sujith <img src="https://emojicombos.com/wp-content/uploads/2020/04/emoji-combos-smiling-face-with-open-mouth-and-smiling-eyes.png" width="30"></div>
 
-<!--
-**sujith9604/sujith9604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">I am an aspiring Software Engineer.</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Resume:
+You can find my resume [here](https://drive.google.com/file/d/1vKtGusuSD6psrW3JiJdbXSof3iDo92NV/view)
+
+---
+
+### Contact Information:
+Feel free to contact me at: sujith9604@gmail.com
+
+---
+
+### Education:
+- **Degree:** Computer Science and Engineering
+- **Institute:** Indian Institute of Information Technology Guwahati
+
+---
+
+### Skills and Interests:
+- Currently Learning Machine Learning
+- Web Development
+- Software Engineering
